@@ -28,7 +28,7 @@
 #include "OLED.h"
 #include "stdio.h"
 #include "BH1750.h"
-// hello i'm tomas
+// hello 
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
