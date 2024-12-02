@@ -34,6 +34,9 @@
                     "path": "../Core/Src/gpio.c"
                   },
                   {
+                    "path": "../Core/Src/i2c.c"
+                  },
+                  {
                     "path": "../Core/Src/tim.c"
                   },
                   {
@@ -63,10 +66,7 @@
                 "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c"
               },
               {
-                "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c"
-              },
-              {
-                "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c"
+                "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c"
               },
               {
                 "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c"
@@ -97,6 +97,12 @@
               },
               {
                 "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c"
+              },
+              {
+                "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c"
+              },
+              {
+                "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c"
               },
               {
                 "path": "../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c"
@@ -280,7 +286,6 @@
           "../Drivers/CMSIS/Include",
           "../OLED_PACKAGE",
           "../BH1750_PACKAGE",
-          ".cmsis/include",
           "RTE/_demo00"
         ],
         "libList": [],

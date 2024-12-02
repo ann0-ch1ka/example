@@ -3,18 +3,18 @@
         {
             "name": "demo00",
             "includePath": [
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\Core\\Inc",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\Drivers\\CMSIS\\Include",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\OLED_PACKAGE",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\BH1750_PACKAGE",
+                "d:\\Git_clone\\example\\Core\\Inc",
+                "d:\\Git_clone\\example\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "d:\\Git_clone\\example\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "d:\\Git_clone\\example\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "d:\\Git_clone\\example\\Drivers\\CMSIS\\Include",
+                "d:\\Git_clone\\example\\OLED_PACKAGE",
+                "d:\\Git_clone\\example\\BH1750_PACKAGE",
                 "D:\\keil5\\ARM\\ARMCC\\include",
                 "D:\\keil5\\ARM\\ARMCC\\include\\rw",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\MDK-ARM",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\Core\\Src",
-                "d:\\stm32IDE\\zhi_neng_jia_ju\\demo00\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "d:\\Git_clone\\example\\MDK-ARM",
+                "d:\\Git_clone\\example\\Core\\Src",
+                "d:\\Git_clone\\example\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
